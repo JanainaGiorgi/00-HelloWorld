@@ -1,2 +1,5 @@
 # 00-HelloWorld
-Janaina Nathalia Alvarez Giorgi K1051
+Nombres: Janaina Nathalia
+Apellidos: Alvarez Giorgi
+Curso: K1051
+Legajo: 1354851
