@@ -1,5 +1,7 @@
 # 00-HelloWorld
-Nombres: Janaina Nathalia
-Apellidos: Alvarez Giorgi
-Curso: K1051
-Legajo: 1354851
+# Algoritmos y Estructura de datos
+# Curso: K1051
+# Año: 2023
+# Legajo: 1354851
+# Apellidos: Alvarez Giorgi
+# Nombres: Janaina Nathalia
